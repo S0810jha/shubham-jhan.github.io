@@ -261,7 +261,7 @@ const handleSendMessage = (e) => {
             <a href="https://github.com/S0810jha" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors hover:scale-110 transform duration-200" title="GitHub">
               <Github className="w-6 h-6" />
             </a>
-            <a href="https://linkedin.com/shubhamjhan03" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors hover:scale-110 transform duration-200" title="LinkedIn">
+            <a href="https://www.linkedin.com/in/shubhamjhan03/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors hover:scale-110 transform duration-200" title="LinkedIn">
               <Linkedin className="w-6 h-6" />
             </a>
             <a href="https://codeforces.com/profile/shubham0310" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors hover:scale-110 transform duration-200" title="Codeforces">
@@ -439,10 +439,10 @@ const handleSendMessage = (e) => {
                 </div>
 
                 <div className="pt-6 flex gap-4">
-                  <a href="https://github.com/S0810jha" className="p-3 bg-slate-900 rounded-lg hover:bg-slate-800 transition-colors text-slate-400 hover:text-white">
+                  <a href="https://github.com/S0810jha" target='_blank' className="p-3 bg-slate-900 rounded-lg hover:bg-slate-800 transition-colors text-slate-400 hover:text-white">
                     <Github />
                   </a>
-                  <a href="https://linkedin.com/shubhamjhan03" className="p-3 bg-slate-900 rounded-lg hover:bg-slate-800 transition-colors text-slate-400 hover:text-white">
+                  <a href="https://www.linkedin.com/in/shubhamjhan03/" target='_blank' className="p-3 bg-slate-900 rounded-lg hover:bg-slate-800 transition-colors text-slate-400 hover:text-white">
                     <Linkedin />
                   </a>
                 </div>
